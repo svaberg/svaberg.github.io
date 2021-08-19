@@ -35,3 +35,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### First author articles
+[The winds of young, Solar-type stars in the Hyades](https://academic.oup.com/mnras/article/506/2/2309/6300456?guestAccessKey=04eab2bd-7f20-4567-bc12-74a8051b092e)
