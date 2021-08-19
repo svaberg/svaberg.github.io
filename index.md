@@ -28,13 +28,17 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+<!-->
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/svaberg/svaberg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-->
 
-### Support or Contact
+### Recent journal articles 
+Evensberget, D., Carter, B. D., Marsden, S. C., and Brookshaw, L. [The winds of young, Solar-type stars in the Hyades](https://academic.oup.com/mnras/article/506/2/2309/6300456?guestAccessKey=04eab2bd-7f20-4567-bc12-74a8051b092e) (free link). MNRAS 2021
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Brett C. Addison et al. [TOI-257b (HD 19916b): a warm sub-saturn orbiting an evolved F-type star](https://doi.org/10.1093/mnras/staa3960). MNRAS 2021
 
-### First author articles
-[The winds of young, Solar-type stars in the Hyades](https://academic.oup.com/mnras/article/506/2/2309/6300456?guestAccessKey=04eab2bd-7f20-4567-bc12-74a8051b092e)
+Jeremy Bailey, Kimberly Bott, Daniel V. Cotton, Lucyna Kedziora-Chudczer, Jinglin Zhao, Dag Evensberget, Jonathan P. Marshall, Duncan Wright, and P. W. Lucas. [Polarization of hot Jupiter systems: a likely detection of stellar activity and a possible detection of planetary polarization](https://doi.org/10.1093/mnras/stab172). MNRAS 2021.
+
+Daniel V. Cotton, Dag Evensberget, Stephen C. Marsden, Jeremy Bailey, Jinglin Zhao, Lucyna Kedziora-Chudczer, Bradley D. Carter, Kimberly Bott, Aline A. Vidotto, Pascal Petit, Julien Morin, and Sandra V. Jeffers. [The rotationally modulated polarization of ξ Boo A](https://doi.org/10.1093/mnras/sty3180). MNRAS 2019.
