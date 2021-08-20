@@ -13,7 +13,7 @@ planetary habitability.
 The project combines Solar physics, space physics, astronomy, and numerical simulations.
 
 ### Academic CV
-Here is a link to my academic CV (in LaTeX of course)
+[Here is a link to my academic CV](https://svaberg.github.io/cv-academic/academic-cv.pdf) (in LaTeX of course)
 
 ### Recent journal articles 
 Evensberget, D., Carter, B. D., Marsden, S. C., and Brookshaw, L. [The winds of young, Solar-type stars in the Hyades](https://academic.oup.com/mnras/article/506/2/2309/6300456?guestAccessKey=04eab2bd-7f20-4567-bc12-74a8051b092e) (free link). MNRAS 2021
