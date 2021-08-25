@@ -1,4 +1,4 @@
-## Professional homepage for Dag Evensberget
+### Professional homepage for Dag Evensberget
 I am currently a Ph.D. student in Astrophysics. My thesis is about the influence of space weather on the habitability
 of extrasolar planets. The phenomenon of atmospheric erosion by stellar wind is explored through numerical
 simulations.
