@@ -11,7 +11,15 @@ planetary habitability.
 
 The project combines Solar physics, space physics, astronomy, and numerical simulations.
 
-### Test
+### Talks 
+During Covid many conference talks were recorded as well as presented on-line to a live audience. Here are three talks I gave in 2021 presenting some of the results of my Ph.D. research: 
+
+Contributed talk at the Astronomical Society of Australia Science Meeting https://youtu.be/slpEngXl7ik Direct 49:30. https://youtu.be/slpEngXl7ik?t=2971
+
+BCool https://youtu.be/ff3DAh8B6G4
+
+Astro3D https://youtu.be/ILNvD-xqEUg 
+
 
 ### Academic CV
 [Here is a link to my academic CV](https://svaberg.github.io/cv-academic/academic-cv.pdf) (in LaTeX of course)
