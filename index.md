@@ -1,4 +1,3 @@
-### Professional homepage for Dag Evensberget
 I am currently a Ph.D. student in Astrophysics. My thesis is about the influence of space weather on the habitability
 of extrasolar planets. The phenomenon of atmospheric erosion by stellar wind is explored through numerical
 simulations.
@@ -11,6 +10,8 @@ characteristics of the wind determines the rate of stellar spin down. Powerful s
 planetary habitability.
 
 The project combines Solar physics, space physics, astronomy, and numerical simulations.
+
+### Test
 
 ### Academic CV
 [Here is a link to my academic CV](https://svaberg.github.io/cv-academic/academic-cv.pdf) (in LaTeX of course)
