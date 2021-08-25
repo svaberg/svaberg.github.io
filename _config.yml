@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: This is the title
 description: This is the description
-show_downloads: true
+show_downloads: false  # This makes a 'download .zip button appear'
