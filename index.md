@@ -11,18 +11,20 @@ planetary habitability.
 
 The project combines Solar physics, space physics, astronomy, and numerical simulations.
 
-### Talks 
-During Covid many conference talks were recorded as well as presented on-line to a live audience. Here are three talks I gave in 2021 presenting some of the results of my Ph.D. research: 
 
-Contributed talk at the Astronomical Society of Australia Science Meeting https://youtu.be/slpEngXl7ik Direct 49:30. https://youtu.be/slpEngXl7ik?t=2971
+### Recorded talks 
+During Covid many conference talks were recorded as well as presented on-line to a live audience. Here are three contributed talks I gave in 2021 presenting some of the results of my Ph.D. research: 
 
-BCool https://youtu.be/ff3DAh8B6G4
+"Inferring the history of the Solar wind from stellar magnetic field observations" [ASTRO3D ECR Austronomers in Australia Seminar](https://youtu.be/ILNvD-xqEUg) (26 minutes)
 
-Astro3D https://youtu.be/ILNvD-xqEUg 
+"Can we infer the history of the Solar wind from stellar magnetic field observations?" [Astronomical Society of Australia Annual Science Meeting](https://youtu.be/slpEngXl7ik?t=2971) (10 minutes)
+
+"Probing the effect of magnetic geometry and field strength on stellar spin-down with MHD simulations" [9th BCool meeting](https://youtu.be/ff3DAh8B6G4) (5 minutes)
 
 
 ### Academic CV
 [Here is a link to my academic CV](https://svaberg.github.io/cv-academic/academic-cv.pdf) (in LaTeX of course)
+
 
 ### Recent journal articles 
 Evensberget, D., Carter, B. D., Marsden, S. C., and Brookshaw, L. [The winds of young, Solar-type stars in the Hyades](https://academic.oup.com/mnras/article/506/2/2309/6300456?guestAccessKey=04eab2bd-7f20-4567-bc12-74a8051b092e) (free link). MNRAS 2021
