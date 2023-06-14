@@ -30,6 +30,8 @@ Marsden, S. C.; Evensberget, D.; Brown, E. L.; Neiner, C.; Seach, J. M.; Morin, 
 
 Evensberget, D.; Carter, B. D.; Marsden, S. C.; Brookshaw, L.; Folsom, C. P.; Salmeron, R. [The winds of young Solar-type stars in Coma Berenices and Hercules-Lyra](https://academic.oup.com/mnras/article/510/4/5226/6458363). MNRAS 2022.
 
+Seach, J. M.; Marsden, S. C.; Carter, B. D.; Evensberget, D.; Folsom, C. P.; Neiner, C.; Mengel, M. W. [The magnetic fields and stellar winds of the mature late F-stars: β Virginis and θ Draconis](https://academic.oup.com/mnras/article/509/4/5117/6427375). MNRAS 2022.
+
 Evensberget, D., Carter, B. D., Marsden, S. C., and Brookshaw, L. [The winds of young, Solar-type stars in the Hyades](https://academic.oup.com/mnras/article/506/2/2309/6300456?guestAccessKey=04eab2bd-7f20-4567-bc12-74a8051b092e) (free link). MNRAS 2021.
 
 Brett C. Addison et al. [TOI-257b (HD 19916b): a warm sub-saturn orbiting an evolved F-type star](https://doi.org/10.1093/mnras/staa3960). MNRAS 2021.
