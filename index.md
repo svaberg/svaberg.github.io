@@ -2,7 +2,7 @@ I am post-doctoral researcher in astrophysics at [Leiden Observatory](https://ww
 
 At Leiden Observatory I have enjoyed supervising M.Sc. and Ph.D. students in the astronomy program; please contact me if you are interested using numerical modelling to study star-planet interactions in 2024/2025! 
 
-In my Ph.D. project at the University of Southern Queensland we produced the largest atlas of three-dimensional wind maps of young, Sun-like stars to date. The wind maps were based on magnetic maps of the stellar photosphere, obtained by ([Folsom et al. 2016](https://ui.adsabs.harvard.edu/abs/2016MNRAS.457..580F/abstract), [2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.4956F/abstract)) with Zeeman-Doppler Imaging (ZDI). We then used 
+In my Ph.D. project at the University of Southern Queensland we produced the largest atlas of three-dimensional wind maps of young, Sun-like stars to date. The wind maps were based on magnetic maps of the stellar photosphere, obtained by [Folsom et al. (2016](https://ui.adsabs.harvard.edu/abs/2016MNRAS.457..580F/abstract), [2018)](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.4956F/abstract) with Zeeman-Doppler Imaging (ZDI). We then used 
 three-dimensional numerical (SWMF/BATSRUS) simulations to produce stellar wind maps covering the stellar corona and astrosphere. 
 The project combined solar physics, space physics, astronomy, and numerical simulations and the results were published in a series of papers 
 ([Evensberget et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.2309E/abstract), 
