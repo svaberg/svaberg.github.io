@@ -13,15 +13,15 @@ The project combined solar physics, space physics, astronomy, and numerical simu
 ### Recorded talks 
 During Covid many conference talks were recorded as well as presented on-line to a live audience. Here are three contributed talks I gave in 2021 presenting some of the results of my Ph.D. research: 
 
-["Inferring the history of the Solar wind from stellar magnetic field observations"](https://youtu.be/ILNvD-xqEUg) at the ASTRO3D ECR Austronomers in Australia Seminar (26 minutes)
+["Inferring the history of the Solar wind from stellar magnetic field observations"](https://youtu.be/ILNvD-xqEUg) at the ASTRO3D ECR Austronomers in Australia Seminar (26 minutes).
 
-["Can we infer the history of the Solar wind from stellar magnetic field observations?"](https://youtu.be/slpEngXl7ik?t=2971) at the Astronomical Society of Australia Annual Science Meeting (10 minutes)
+["Can we infer the history of the Solar wind from stellar magnetic field observations?"](https://youtu.be/slpEngXl7ik?t=2971) at the Astronomical Society of Australia Annual Science Meeting (10 minutes).
 
-["Probing the effect of magnetic geometry and field strength on stellar spin-down with MHD simulations"](https://youtu.be/ff3DAh8B6G4) at the 9th BCool meeting (5 minutes)
+["Probing the effect of magnetic geometry and field strength on stellar spin-down with MHD simulations"](https://youtu.be/ff3DAh8B6G4) at the 9th BCool meeting (5 minutes).
 
 
 ### Academic CV
-[Here is a link to my academic CV](https://svaberg.github.io/cv-academic/academic-cv.pdf) (in LaTeX of course)
+[Here is a link to my academic CV](https://svaberg.github.io/cv-academic/academic-cv.pdf) (in LaTeX of course).
 
 
 ### Recent journal articles 
