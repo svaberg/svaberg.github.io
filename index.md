@@ -1,12 +1,13 @@
-I am post-doctoral researcher in astrophysics. I am interested in stellar rotation and the influence of space weather on the habitability
-of extrasolar planets. 
+I am post-doctoral researcher in astrophysics at [Leiden Observatory](https://www.universiteitleiden.nl/en/science/astronomy). I am interested in stellar rotation, observable signatures of coronal mass ejection modelling, and the role of space weather in determining the habitability of extrasolar planets. To study these phenomena I often use high-performance computers and three-dimensional numerical codes such as the [Space Weather Modelling Framework](https://clasp.engin.umich.edu/research/theory-computational-methods/space-weather-modeling-framework/) developed at the University of Michigan. 
 
-In my Ph.D. project at the University of Southern Queensland we produced the largest atlas of three-dimensional wind
-maps of young, Sun-like stars to date. Spectropolarimetric observations of young, Sun-like stars permit the
-reconstruction of the stellar surface magnetic field through Zeeman-Doppler imaging. Three-dimensional numerical
-simulations were then used to produce stellar wind maps covering the stellar corona and astrosphere. The
-characteristics of the wind determines the rate of stellar spin down. Powerful stellar winds may adversely affect
-planetary habitability. The project combined Solar physics, space physics, astronomy, and numerical simulations.
+At Leiden Observatory I have enjoyed supervising M.Sc. and Ph.D. students in the astronomy program; please contact me if you are interested using numerical modelling to study star-planet interactions in 2024/2025! 
+
+In my Ph.D. project at the University of Southern Queensland we produced the largest atlas of three-dimensional wind maps of young, Sun-like stars to date. The wind maps were based on magnetic maps of the stellar photosphere, obtained by ([Folsom et al. 2016](https://ui.adsabs.harvard.edu/abs/2016MNRAS.457..580F/abstract), [2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.4956F/abstract)) with Zeeman-Doppler Imaging (ZDI). We then used 
+three-dimensional numerical (SWMF/BATSRUS) simulations to produce stellar wind maps covering the stellar corona and astrosphere. 
+The project combined solar physics, space physics, astronomy, and numerical simulations and the results were published in a series of papers 
+([Evensberget et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.2309E/abstract), 
+[2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.5226E/abstract), 
+[2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.2042E/abstract)).
 
 
 ### Recorded talks 
@@ -24,6 +25,10 @@ During Covid many conference talks were recorded as well as presented on-line to
 
 
 ### Recent journal articles 
+D. Evensberget and A. A. Vidotto. 
+[Rotational evolution of young-to-old stars
+with data-driven three-dimensional wind models](https://academic.oup.com/mnrasl/article/529/1/L140/7585908?utm_source=authortollfreelink&utm_campaign=mnrasl&utm_medium=email&guestAccessKey=16a4b289-d702-43ed-84ef-0919dfdc974b) (free link). MNRAS 2024.
+
 Evensberget, D.; Marsden, S. C.; Carter, B. D.; Salmeron, R.; Vidotto, A. A.; Folsom, C. P.; Kavanagh, R. D.; Pineda, J. S.; Driessen, F. A.; Strickert, K. M. [The winds of young Solar-type stars in the Pleiades, AB Doradus, Columba and β Pictoris](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stad1650/7189907?utm_source=authortollfreelink&utm_campaign=mnras&utm_medium=email&guestAccessKey=6596d2e7-dab4-49db-808e-62a26077d96b) (free link). MNRAS 2023.
 
 Marsden, S. C.; Evensberget, D.; Brown, E. L.; Neiner, C.; Seach, J. M.; Morin, J.; Petit, P.; Jeffers, S. V.; Folsom, C. P. [The magnetic field and stellar wind of the mature late-F star χ Draconis A](https://academic.oup.com/mnras/article/522/1/792/7093409). MNRAS 2023.
